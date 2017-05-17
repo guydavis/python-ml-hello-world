@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Basic SciPY Hello-World to verify a successful installation."""
+"""Basic SciPY Hello-World to verify a successful installation.
+   https://www.scipy.org/getting-started.html"""
 import argparse
 import numpy as np
 from scipy import special, optimize
